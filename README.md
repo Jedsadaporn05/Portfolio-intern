@@ -1,2 +1,2 @@
 # About this Project
-This is my portfolio intern
+This is my portfolio internship
